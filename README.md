@@ -8,7 +8,7 @@ Java SE 17 Spring STS tool( you can use any development tool)
 Login to your github application
 and go to setting and click on the developer setting then 
 Create the SpringBoot_Security_Github_Login application
-Get the client id and client secrect token and set the value into the applicaiton.yml file in your spring boot application
+Get the client id and client secrect token and set the value into the application.yml file in your spring boot application
 
 # Homepage URL
 http://localhost:8080
