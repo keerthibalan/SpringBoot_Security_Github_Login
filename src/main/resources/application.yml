@@ -5,6 +5,6 @@ spring:
         registration:
           github:
             client-id: 7a7ea1071fdd34667612
-            client-secret: 56d6e2fd1dfc3a9b2d0b2b406b7a09d66fc7e863
+            client-secret: git hub project pasword
     
   
